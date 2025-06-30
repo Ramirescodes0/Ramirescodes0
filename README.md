@@ -14,7 +14,7 @@ I am an Information Systems student, with a focus on data analysis, business man
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F44336?style=for-the-badge&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-9C27B0?style=for-the-badge&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-673AB7?style=for-the-badge&logoColor=white)
-![EEG Processing](https://img.shields.io/badge/EEG%20Processing-00BCD4?style=for-the-badge&logoColor=white)
+![ETL](https://img.shields.io/badge/EEG%20Processing-00BCD4?style=for-the-badge&logoColor=white)
 
 --- 
 
